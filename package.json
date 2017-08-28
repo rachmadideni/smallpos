@@ -1,0 +1,26 @@
+{
+  "name": "smallpos",
+  "version": "1.0.0",
+  "description": "basic pos web app\u001b[1;5D\u001b[1;5D\u001b[1;5C\u001b[1;5C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pos",
+    "web",
+    "ui"
+  ],
+  "author": "denny rachmadi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^3.0.0",
+    "passport-local": "^1.0.0"
+  }
+}
